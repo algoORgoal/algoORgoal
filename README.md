@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nailing my CSS skills.
-- 🌱 I’m currently learning CS Fundamentals and Frontend Engineering.
-- 👯 I’m looking to collaborate on projects about travel.
-- 🤔 I’m looking for help with getting an internship in a European company.
+- 🔭 I’m currently migrating my blog from dev.to to my blog website built with Next.js.
+- 🌱 My go-to tech stack is Typescript, Next.js, Storybook, zustand, and tailwindCSS.
+- 👯 I’m open to work and collaborate.
+- 🤔 I’m looking for an internship in a European company.
 - 💬 Ask me about Anything!
-- 📫 How to reach me: send an email or a message via [LinkedIn](https://www.linkedin.com/in/byeolchan-kim-206b1a13a/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/byeolchan-kim-206b1a13a/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: This year, I'll have been to France 3 times.
-
 
 <!--
 **algoORgoal/algoORgoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
