@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently migrating my blog from dev.to to my blog website built with Next.js.
-- 🌱 My go-to tech stack is Typescript, Next.js, Storybook, zustand, and tailwindCSS.
+- 🔭 As one of the frontend part leaders in KUIT, I **review challengers' code** and **give feedback** during their weekly study sessions.
+- 🌱 I'm working on SEO, Lighthouse, and React/React Native/Next.js recenlty.
 - 👯 I’m open to work and collaborate.
-- 🤔 I’m looking for an internship in a European company.
-- 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/byeolchan-kim-206b1a13a/)
 - 😄 Pronouns: he/him
 
