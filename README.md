@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 As one of the frontend part leaders in KUIT, I **review challengers' code** and **give feedback** during their weekly study sessions.
-- 🌱 I'm working on SEO, Lighthouse, and React/React Native/Next.js recenlty.
-- 👯 I’m open to work and collaborate.
+- 🔭 As one of the frontend part leaders in KUIT, an IT project club at Konkuk University, I **review challengers' code** and **give feedback** during their weekly study sessions.
+- 🌱 As a frontend developer at tossplace, I work on **SEO, Lighthouse automation, and GSAP animations.**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/byeolchan-kim-206b1a13a/)
 - 😄 Pronouns: he/him
 
