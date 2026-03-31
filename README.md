@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 
 
-[버그 리포트] https://github.com/expo/eas-cli/pull/3031#issuecomment-2919926065
-[버그 리포트] https://github.com/nodejs/node/issues/58576
-[문서 오타 수정] https://github.com/pmndrs/zustand/pull/2530
+- [버그 리포트] https://github.com/expo/eas-cli/pull/3031#issuecomment-2919926065
+- [버그 리포트] https://github.com/nodejs/node/issues/58576
+- [문서 오타 수정] https://github.com/pmndrs/zustand/pull/2530
